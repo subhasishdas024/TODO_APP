@@ -1,4 +1,4 @@
-# Laravel 8 Todo App
+# Todo App
 
 Todo List app is a simple task manager allowing users to add, view, mark as completed, and delete to-do records database and basic error handling build on Laravel Framework 8. 
 
