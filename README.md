@@ -1,15 +1,10 @@
 # Laravel 8 Todo App
 
-This is a simple Todo app with bulk edit and deletion of records
-
-This is built on Laravel Framework 8. This was built for demonstrate purpose.
+Todo List app is a simple task manager allowing users to add, view, mark as completed, and delete to-do records database and basic error handling build on Laravel Framework 8. 
 
 ## Installation
 
 Clone the repository-
-```
-git clone https://github.com/realx4rd/laravel-todo.git
-```
 
 Then cd into the folder with this command-
 ```
@@ -47,9 +42,6 @@ php artisan serve
 
 Then go to `http://localhost:8000` from your browser and see the app.
 
-## Ask a question?
-
-If you have any query please contact at realx4rd@gmail.com
 
 ## Screenshot
 
